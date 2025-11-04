@@ -3,7 +3,6 @@
        ITS A ME MARIO
     </title>
     <body style="background-color:rgb(131, 225, 238);">
-
         <h1 align="center">I will write about foods i like so just go see it bi*ch...</h1>
         <h1 align="center">This is h1</h1>
         <p> <h2> is a para why am I writing this , i have no idea....</h2></p>
@@ -52,7 +51,6 @@
                     <li align="left">Health 💪🏋️‍♀️</li>
                 </ul>
                </pre>
-               
                <input type="checkbox"> Male
                <input type="checkbox"> Female
                <input type="checkbox"> Wallmart bag
