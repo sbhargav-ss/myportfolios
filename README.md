@@ -1,7 +1,4 @@
 <html>
-    <title>
-       ITS A ME MARIO
-    </title>
     <body style="background-color:rgb(131, 225, 238);">
         <h1 align="center">I will write about foods i like so just go see it bi*ch...</h1>
         <h1 align="center">This is h1</h1>
@@ -56,7 +53,5 @@
                <input type="checkbox"> Wallmart bag
                <pre align="center"> This is me in 11th sooo yea this is as of 4.11.2025 hmm just a few weeks before Pt-2</pre>
                <pre> THE END GET OFF NOW </pre>
-                 
      </body>
-
 </html>
